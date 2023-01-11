@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+
+.idea {
+  border: 1px solid black;
+  width: 40%;
+  margin: 20px auto;
+  padding: 5px;
+}
